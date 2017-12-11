@@ -1,0 +1,8 @@
+pre {
+  background-color: gray;
+  border-radius: 10px;
+  height: 80px;
+  font-size: 16px;
+  padding: 10px;
+  font-weight: bold;
+}
